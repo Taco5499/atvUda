@@ -17,7 +17,7 @@
     <main>
       <section id="comandosGit">
         <h2>Aqui é um dos principais comandos git:</h2>
-        <ul>
+        <ul id="listaComandosGit">
           <li>git init</li>
           <li>git remote</li>
           <li>git add</li>
@@ -25,6 +25,7 @@
           <li>git push</li>
         </ul>
       </section>
+      <img src="" alt="">
     </main>
     <footer>
       <p>Copyright &copy; Luis gustavo and Felipe Campeol</p>
